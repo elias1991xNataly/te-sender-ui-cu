@@ -1,3 +1,5 @@
+1. Create a basic react/nextjs application
+2. Implement this function
 ```javascript
 function airdropERC20(
     address tokenAddress,
@@ -8,3 +10,4 @@ function airdropERC20(
 
 
 ```
+3. Deploy to Fleek
